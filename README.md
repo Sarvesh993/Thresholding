@@ -79,12 +79,11 @@ for i in range(0,9):
 ### Global Thresholding
 ![](92.png)
 ![](93.png)
-![](94.png)
 
 ### Adaptive Thresholding
-![](95.png)
+![](94.png)
 ### Optimum Global Thesholding using Otsu's Method
-![](96.png)
+![](95.png)
 
 
 ## Result
